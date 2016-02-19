@@ -461,7 +461,7 @@ Psychology/Cognition
 --------------------
 
 * `OSU Cognitive Modeling Repository Datasets <http://www.cmr.osu.edu/browse/datasets>`_
-
+* `myPersonality dataset <http://www.mypersonality.org/wiki/doku.php>`_
 
 Public Domains
 --------------
